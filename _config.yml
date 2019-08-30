@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Contact"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Rosairo, Argentina"
+  bio              : 
+  location         : "Rosario, Argentina"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "locascio@fceia.unr.edu.ar"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

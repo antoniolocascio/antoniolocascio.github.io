@@ -8,3 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+Computer science student, National University of Rosario. 
+Currently working on a bidirectional type and effect system for my master's thesis.
