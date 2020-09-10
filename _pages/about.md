@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Computer science student, National University of Rosario. 
-Currently working on a bidirectional type and effect system for my master's thesis.
+# Hi!
+
+I'm a Licenciate in Computer Science (UNR) from Rosario, Argentina. 
+I'm currently working as a TA at the National University of Rosario.
+My main interests are functional programming and type systems.
