@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi!
+## Hi!
 
 I'm a Licenciate in Computer Science (UNR) from Rosario, Argentina. 
 I'm currently working as a TA at the National University of Rosario.
