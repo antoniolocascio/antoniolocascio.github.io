@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /thesis/
 title: "Thesis"
 excerpt: "Thesis"
 author_profile: true
 redirect_from: 
-  - /thesis/
   - /thesis.html
 ---
 
