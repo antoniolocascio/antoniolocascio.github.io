@@ -1,8 +1,8 @@
 ---
-permalink: /thesis/
+layout: archive
 title: "Thesis"
-redirect_from: 
-  - /thesis.html
+permalink: /thesis/
+author_profile: true
 ---
 
 # Alef: A bidirectional effect system for algebraic effects.
